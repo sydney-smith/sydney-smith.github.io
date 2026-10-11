@@ -2,96 +2,216 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Sydney Smith, PhD
+    - name: Current Position
+      value: Postdoctoral Associate, Yale University
+    - name: Email
+      value: sesmith.research@gmail.com
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-5293-7247">0000-0002-5293-7247</a>
+
+- title: Research Profile
+  type: list
+  contents:
+    - "I study how neural systems transform dynamic sensory information into adaptive behavior, with a particular focus on how this transformation is implemented by physiologically plausible patterns of neural activity within and across brain systems. To this aim, I develop and apply approaches that preserve a link between measurable neural signals and the physiological mechanisms that generate behavior."
+
+- title: Research Positions
+  type: time_table
+  contents:
+    - title: Postdoctoral Associate
+      institution: Brain & Cognition Lab, Yale University; Anna Christina (Kia) Nobre
+      year: "Jul 2025–present"
+      description:
+        - "Research focus: non-invasive and intracranial human neurophysiology to characterize brain networks and dynamics in adaptive cognition."
+    - title: PhD Candidate
+      institution: Neural and Data Analytics Lab, University of California, San Diego; Bradley Voytek
+      year: "Sep 2019–Mar 2025"
+      description:
+        - "Research: oscillatory basis of dynamic auditory attention using intracranial EEG; aperiodic mechanisms of seizure-based therapies using EEG in collaboration with San Diego VA Health."
+    - title: Lab Manager
+      institution: Neural and Data Analytics Lab, University of California, San Diego; Bradley Voytek
+      year: "Apr 2018–Aug 2019"
+      description:
+        - "Research: mechanisms of electroconvulsive therapy for major depressive disorder using EEG; phase preference in visual perceptual learning using EEG."
+    - title: Undergraduate Research Assistant
+      institution: Action Lab, University of California, Santa Barbara; Scott Grafton
+      year: "Aug 2016–Jan 2018"
+      description:
+        - "Research: approach–avoidance decision-making using fMRI; intentional binding using TMS."
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Neurosciences — Specialization in Computational Neuroscience
+      institution: University of California, San Diego
+      year: "Mar 2025"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Bradley Voytek"
+        - "Dissertation committee: Eric Halgren, Gal Mishne, Greg Appelbaum"
+        - "Dissertation: “Gnarly Waves: Honoring neurophysiology in human cognitive and clinical neuroscience”"
+        - "Chancellor’s Dissertation Medal (2026)"
+    - title: BS in Biopsychology — Minor in History of Art and Architecture
+      institution: University of California, Santa Barbara
+      year: "Jan 2018"
       description:
-        - Description 1.
-        - Description 2.
+        - "Dean’s Honors"
 
-- title: Experience
+- title: Grants and Funding
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Swebilius Foundation Grant
+      institution: Yale University School of Medicine Comprehensive Epilepsy Center
+      year: "2025–present"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - "Project: Evaluating the utility of aperiodic connectivity in characterizing focal epilepsy"
+        - "Amount: $25,000"
+        - "Role: PI"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Kavli Foundation Science & Society Sparks
+      year: "2026"
+      description:
+        - "$7,500"
+    - title: UC San Diego Chancellor’s Dissertation Medal, School of Medicine
+      year: "2026"
+    - title: NIH Outstanding Scholars in Neuroscience Award Program (OSNAP)
+      institution: National Institutes of Mental Health
+      year: "2024"
+    - title: UC San Diego Leon Thal Award for Excellence in Neuroscience Research
+      year: "2024"
+      description:
+        - "$500"
+    - title: UC San Diego Lab Expo Grad Showdown public speaking competition, Winner
+      year: "2023"
+    - title: UC San Diego Malcolm R. Stacey Memorial Fellowship
+      year: "2021"
+      description:
+        - "$5,000"
 
-- title: Academic Interests
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Peer-Reviewed Publications
       items:
-        - Description 1.
-        - Description 2.
+        - "Cellier D, Smith SE, Preston M, van Engen Q, Kosik-Rose E, Bender A, Hammonds R, Voytek B. (2026). Time-resolved spectral parameterization: recommendations and guidelines. Neuron. <a href='https://doi.org/10.1016/j.neuron.2026.08.009'>https://doi.org/10.1016/j.neuron.2026.08.009</a>"
+        - "Preston M, Smith SE, Voytek B. (2026). Potential mechanisms and functional significance of aperiodic neural activity. Nature Human Behavior. <a href='https://doi.org/10.1038/s41562-026-02503-7'>https://doi.org/10.1038/s41562-026-02503-7</a>"
+        - "Stolz L, Kohn J, Smith SE, Benster L, Appelbaum L. (2023). Predictive biomarkers of treatment response in Major Depressive Disorder. Brain Sciences. <a href='https://doi.org/10.3390/brainsci13111570'>https://doi.org/10.3390/brainsci13111570</a>"
+        - "Smith SE, van Engen Q, Kosik EL, Kohn J, Hill AT, Zomorrodi R, Blumberger DM, Daskalakis ZJ, Hadas I, Voytek B. (2023). Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity. Translational Psychiatry. <a href='https://doi.org/10.1038/s41398-023-02631-y'>https://doi.org/10.1038/s41398-023-02631-y</a>"
+        - "Smith SE, Ma V, Gonzalez C, Chapman A, Printz D, Voytek B, Soltani M. (2023). Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity. Translational Psychiatry. <a href='https://doi.org/10.1038/s41398-023-02634-9'>https://doi.org/10.1038/s41398-023-02634-9</a> (media coverage — see Public Scholarship)"
+        - "Mercier MR et al., including Smith SE and Voytek B. (2022). Advances in human intracranial electroencephalography research, guidelines, and good practices. NeuroImage. <a href='https://doi.org/10.1016/j.neuroimage.2022.119438'>https://doi.org/10.1016/j.neuroimage.2022.119438</a>"
+        - "Waschke L, Donoghue T, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J. (2021). Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent. eLife. <a href='https://doi.org/10.7554/eLife.70068'>https://doi.org/10.7554/eLife.70068</a>"
+    - title: Commentaries
+      items:
+        - "Smith SE. (2025). Analyzing the elephant: The search for electroencephalography biomarkers. Biological Psychiatry: Global Open Science. <a href='https://doi.org/10.1016/j.bpsgos.2025.100459'>https://doi.org/10.1016/j.bpsgos.2025.100459</a>"
 
-- title: Other Interests
+- title: Manuscripts Under Review
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Smith SE, Cellier D, Rigby A, Rosen BQ, Garrett J, Simon AJ, Shih J, Ben-Haim S, Doelling KB, Voytek B. Simulated field potentials capture multiple simultaneous processes underlying human temporal attention (preprint). bioRxiv. <a href='https://doi.org/10.64898/2026.09.17.752423'>https://doi.org/10.64898/2026.09.17.752423</a>. In review."
+
+- title: Invited Talks and Workshops
+  type: nested_list
+  contents:
+    - title: Selected Talks and Workshops
+      items:
+        - "Smith SE et al. (2023). Spectral parameterization of EEG reveals a plausible biological mechanism for therapeutic effects of seizure-based treatments for depression. Invited presentation, IEEE Conference on Signals, Systems, & Computers."
+        - "Smith SE et al. (2023). Methods for Analyzing Neural Oscillations and Aperiodic Activity. Workshop Leader, Society for Psychophysiological Research."
+    - title: Invited Lectures and Seminars
+      items:
+        - "CCBBI Neuroimaging Trainee Group, The Ohio State University (2026)"
+        - "Brain Stimulation Group, Yale University (2025)"
+        - "Brain and Cognition Lab, Yale University (2024)"
+        - "Neurosciences Program Retreat, UC San Diego (2024)"
+        - "Cognition at the Shore, UC San Diego (2024)"
+        - "Neurosciences Interview Week Seminar, UC San Diego (2024)"
+        - "PRESIDIO Group, UCSF (2024)"
+        - "Knight Lab, UC Berkeley (2024)"
+        - "Appelbaum Lab, UC San Diego (2022)"
+        - "NeuroTechX, UC San Diego (2020)"
+
+- title: Conference Presentations
+  type: list
+  contents:
+    - "Smith SE, Calbick D, Nobre AC, McCarthy G. (2026). Evaluating aperiodic-driven brain network connectivity in visual target detection. Poster, Organization for Human Brain Mapping."
+    - "Vairagare I, Chapman A, Smith SE, Voytek B. (2025). Aperiodic activity as an EEG biomarker for sertraline response: Applications and limitations. Poster, Society for Neuroscience."
+    - "Smith SE, Doelling K, Voytek B. (2024). Modeling the independence and convergence of frontal top-down anticipation signals and bottom-up auditory drive in the human auditory cortex. Poster, Society for Neuroscience."
+    - "Smith SE, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: simulation and intracranial EEG. Poster, Society for Neuroscience."
+    - "Smith SE, Rigby A, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: behavior and intracranial EEG. Poster, Cognitive Neuroscience Society."
+    - "Chapman A, Smith SE, Voytek B. (2022). Hemispheric differences in aperiodic activity interact with symptom chronicity in Major Depressive Disorder to predict Sertraline treatment response. Poster, Society for Neuroscience."
+    - "VanEngen Q, Kosik E, Smith SE, Voytek B. (2022). Periodic and aperiodic mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Cognitive Neuroscience Society."
+    - "Smith SE, Printz D, Voytek B, Soltani M. (2021). Increases in aperiodic activity explain EEG “slowing” after electroconvulsive therapy. Poster, Society for Neuroscience."
+    - "Smith S, Ma V, Jacobson M, Printz D, Voytek B, Soltani M. (2019). Oscillatory mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Society for Neuroscience."
+    - "Waschke L, Donoghue T, Smith S, Voytek B, Obleser J. (2019). Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources. Poster, Cognitive Computational Neuroscience."
+
+- title: Teaching
+  type: list
+  contents:
+    - "Certificate of College Teaching Preparation for Postdocs, Yale University (2026–present)."
+    - "Neuroanatomy, graduate-level laboratory teaching assistant, UC San Diego (2022–2023)."
+    - "Workshop Lead: Methods for Analyzing Neural Oscillations and Aperiodic Activity, Society for Psychophysiological Research (2023)."
+
+- title: Mentoring
+  type: nested_list
+  contents:
+    - title: Undergraduate Research Mentorship
+      items:
+        - "Mentored trainees in biomedical engineering, neuroscience, cognitive science, machine learning, clinical psychology, and data science at Yale University and UC San Diego."
+        - "Mentees have progressed to graduate study, medical training, and roles in industry and research."
+
+- title: Academic Service and Professional Activities
+  type: nested_list
+  contents:
+    - title: Ad Hoc Peer Review
+      items:
+        - "Progress in Neurobiology"
+        - "PLOS Computational Biology"
+        - "Imaging Neuroscience"
+        - "Biological Psychiatry: Global Open Science"
+        - "Addiction Biology"
+    - title: Committee Service
+      items:
+        - "Fellow, Wu Tsai Institute SPPC, Yale University (2025–2026)"
+        - "Interview Week Committee, Neurosciences Graduate Program, UC San Diego (2020–2024)"
+        - "Admissions Committee, Neurosciences Graduate Program, UC San Diego (2020–2022)"
+        - "Career Development Committee, Neurosciences Graduate Program, UC San Diego (2019–2023)"
+
+- title: Public Scholarship and Science Communication
+  type: nested_list
+  contents:
+    - title: Authored Public Scholarship
+      items:
+        - "Smith SE. (2023). How electroconvulsive therapy heals the brain – new insights into ECT, a stigmatized yet highly effective treatment for depression. The Conversation."
+    - title: Science Communication and Outreach
+      items:
+        - "Regional Director / Founder, Two Scientists Walk Into a Bar, New Haven (2026–present)"
+        - "Writer / Editor, Stories of Women in Neuroscience (2021–2026); selected profiles include Dr. Farah Lubin and Dr. Liberty Hamilton"
+        - "City Coordinator, Pint of Science Festival, New Haven (2026)"
+        - "Science Communicator, Two Scientists Walk Into a Bar, San Diego (2024–2025)"
+        - "Invited Speaker, Nerd Nite San Diego (2024)"
+        - "Consultant, National Academy of Sciences Science & Entertainment Exchange (2024)"
+        - "Invited Speaker, SWENext, Pacific Ridge High School (2024)"
+        - "Invited Speaker, Pacific Ridge High School Biotechnology class (2023, 2025)"
+        - "Event Coordinator, Taste of Science Festival, San Diego (2020, 2022–2024)"
+        - "Volunteer, Brain Bee, San Diego (2020, 2022, 2024)"
+        - "Panelist, How to Find an RA Position & Succeed in the Lab, UC San Diego Career Center (2023)"
+        - "Volunteer Judge, International Youth Neuroscience Association NEURON competition (2020)"
+    - title: Selected Media Coverage
+      items:
+        - "Quanta Magazine: Brain’s “background noise” may explain value of shock therapy."
+        - "Psychiatric News: Brain’s “background noise” changes with ECT, MST."
+        - "NPR/KPBS: Electroshock therapy works and now we may know why."
+        - "ScienceAlert: Brain’s Background Noise Could Explain Electroconvulsive Therapy’s Success."
+        - "U.S. News & World Report: Scientists May Have Solved Mystery of How Shock Therapy Works."
+        - "UC San Diego Today: New Studies of Brain Activity Explain Benefits of Electroconvulsive Therapy."
+
+- title: Additional Training and Professional Development
+  type: list
+  contents:
+    - "OSL Workshop, BrainWorks at Wu Tsai Institute, Yale University (2025): Advanced MEG processing and analysis methods from the Oxford Centre for Human Brain Activity Software Library."
+    - "OPM-MEG Flux Workshop, BrainWorks at Wu Tsai Institute, Yale University (2025): Theory and practice of optically pumped magnetometer MEG in cognitive neuroscience research."
+    - "MicroMBA, Rady School of Management, UC San Diego (2022)."
+    - "Neuromatch Academy (2021): Methods and applications in computational neuroscience."
+    - "Anti-Racist Pedagogy Learning Community, UC San Diego Teaching + Learning Commons (2020)."
+    - "Neurosurgery observation, UC San Diego Health (2018)."
