@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a cognitive neuroscientist interested in how humans anticipate the world and how prediction shape adaptive behavior. My research combines experimental cognitive science, computational modeling, and human neurophysiology to investigate the neural mechanisms that support anticipation and prediction.
+I am a cognitive neuroscientist interested in how humans anticipate the world and how prediction shapes adaptive behavior. My research combines experimental cognitive science, computational modeling, and human neurophysiology to investigate the neural mechanisms that support anticipation and prediction.
 
 I am currently a Postdoctoral Associate in the Brain & Cognition Lab at Yale University, working with Kia Nobre. I received my PhD in Neurosciences, with a specialization in Computational Neuroscience, from the University of California San Diego, where I worked with Bradley Voytek.
 
