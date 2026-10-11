@@ -21,7 +21,7 @@ I am currently a Postdoctoral Associate in the Brain & Cognition Lab at Yale Uni
 
 My research is motivated by a central question: **How can we connect the dynamics of the brain to the predictions that guide human behavior?** I develop and evaluate physiologically grounded methods for studying neural activity, with an emphasis on interpretable models that bridge neural signals and cognition.
 
-### Research interests
+### research interests
 
 - **Anticipation and prediction:** How humans use temporal and contextual information to anticipate upcoming events.
 - **Neural dynamics:** How oscillatory and aperiodic activity can reveal the physiological mechanisms underlying cognition.
