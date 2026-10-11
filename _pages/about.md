@@ -2,25 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Associate · Yale University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a cognitive neuroscientist interested in how humans anticipate the world and how prediction shape adaptive behavior. My research combines experimental cognitive science, computational modeling, and human neurophysiology to investigate the neural mechanisms that support anticipation and prediction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Postdoctoral Associate in the Brain & Cognition Lab at Yale University, working with Kia Nobre. I received my PhD in Neurosciences, with a specialization in Computational Neuroscience, from the University of California San Diego, where I worked with Bradley Voytek.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is motivated by a central question: **How can we connect the dynamics of the brain to the predictions that guide human behavior?** I develop and evaluate physiologically grounded methods for studying neural activity, with an emphasis on interpretable models that bridge neural signals and cognition.
+
+### Research interests
+
+- **Anticipation and prediction:** How humans use temporal and contextual information to anticipate upcoming events.
+- **Neural dynamics:** How oscillatory and aperiodic activity can reveal the physiological mechanisms underlying cognition.
+- **Distributed neural interactions:** How neural populations coordinate to support adaptive behavior.
+
+I am interested in connecting computational approaches with mechanistic accounts of human cognition, using neural recordings to understand how the brain predicts the world. 
