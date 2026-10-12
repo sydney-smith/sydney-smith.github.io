@@ -90,7 +90,7 @@
       description:
         - "$5,000"
 
-- title: Publications
+- title: Scholarship
   type: nested_list
   contents:
     - title: Peer-Reviewed Publications
@@ -105,15 +105,9 @@
     - title: Commentaries
       items:
         - "Smith SE. (2025). Analyzing the elephant: The search for electroencephalography biomarkers. Biological Psychiatry: Global Open Science. <a href='https://doi.org/10.1016/j.bpsgos.2025.100459'>https://doi.org/10.1016/j.bpsgos.2025.100459</a>"
-
-- title: Manuscripts Under Review
-  type: list
-  contents:
-    - "Smith SE, Cellier D, Rigby A, Rosen BQ, Garrett J, Simon AJ, Shih J, Ben-Haim S, Doelling KB, Voytek B. Simulated field potentials capture multiple simultaneous processes underlying human temporal attention (preprint). bioRxiv. <a href='https://doi.org/10.64898/2026.09.17.752423'>https://doi.org/10.64898/2026.09.17.752423</a>. In review."
-
-- title: Invited Talks and Workshops
-  type: nested_list
-  contents:
+    - title: Manuscripts Under Review
+      items:
+        - "Smith SE, Cellier D, Rigby A, Rosen BQ, Garrett J, Simon AJ, Shih J, Ben-Haim S, Doelling KB, Voytek B. Simulated field potentials capture multiple simultaneous processes underlying human temporal attention (preprint). bioRxiv. <a href='https://doi.org/10.64898/2026.09.17.752423'>https://doi.org/10.64898/2026.09.17.752423</a>. In review."
     - title: Selected Talks and Workshops
       items:
         - "Smith SE et al. (2023). Spectral parameterization of EEG reveals a plausible biological mechanism for therapeutic effects of seizure-based treatments for depression. Invited presentation, IEEE Conference on Signals, Systems, & Computers."
@@ -130,28 +124,30 @@
         - "Knight Lab, UC Berkeley (2024)"
         - "Appelbaum Lab, UC San Diego (2022)"
         - "NeuroTechX, UC San Diego (2020)"
-
-- title: Conference Presentations
-  type: list
-  contents:
-    - "Smith SE, Calbick D, Nobre AC, McCarthy G. (2026). Evaluating aperiodic-driven brain network connectivity in visual target detection. Poster, Organization for Human Brain Mapping."
-    - "Vairagare I, Chapman A, Smith SE, Voytek B. (2025). Aperiodic activity as an EEG biomarker for sertraline response: Applications and limitations. Poster, Society for Neuroscience."
-    - "Smith SE, Doelling K, Voytek B. (2024). Modeling the independence and convergence of frontal top-down anticipation signals and bottom-up auditory drive in the human auditory cortex. Poster, Society for Neuroscience."
-    - "Smith SE, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: simulation and intracranial EEG. Poster, Society for Neuroscience."
-    - "Smith SE, Rigby A, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: behavior and intracranial EEG. Poster, Cognitive Neuroscience Society."
-    - "Chapman A, Smith SE, Voytek B. (2022). Hemispheric differences in aperiodic activity interact with symptom chronicity in Major Depressive Disorder to predict Sertraline treatment response. Poster, Society for Neuroscience."
-    - "VanEngen Q, Kosik E, Smith SE, Voytek B. (2022). Periodic and aperiodic mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Cognitive Neuroscience Society."
-    - "Smith SE, Printz D, Voytek B, Soltani M. (2021). Increases in aperiodic activity explain EEG “slowing” after electroconvulsive therapy. Poster, Society for Neuroscience."
-    - "Smith S, Ma V, Jacobson M, Printz D, Voytek B, Soltani M. (2019). Oscillatory mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Society for Neuroscience."
-    - "Waschke L, Donoghue T, Smith S, Voytek B, Obleser J. (2019). Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources. Poster, Cognitive Computational Neuroscience."
+    - title: Conference Presentations
+      contents:
+        - "Smith SE, Calbick D, Nobre AC, McCarthy G. (2026). Evaluating aperiodic-driven brain network connectivity in visual target detection. Poster, Organization for Human Brain Mapping."
+        - "Vairagare I, Chapman A, Smith SE, Voytek B. (2025). Aperiodic activity as an EEG biomarker for sertraline response: Applications and limitations. Poster, Society for Neuroscience."
+        - "Smith SE, Doelling K, Voytek B. (2024). Modeling the independence and convergence of frontal top-down anticipation signals and bottom-up auditory drive in the human auditory cortex. Poster, Society for Neuroscience."
+        - "Smith SE, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: simulation and intracranial EEG. Poster, Society for Neuroscience."
+        - "Smith SE, Rigby A, Doelling K, Voytek B. (2023). Investigating the mechanisms of precise predictive timing: behavior and intracranial EEG. Poster, Cognitive Neuroscience Society."
+        - "Chapman A, Smith SE, Voytek B. (2022). Hemispheric differences in aperiodic activity interact with symptom chronicity in Major Depressive Disorder to predict Sertraline treatment response. Poster, Society for Neuroscience."
+        - "VanEngen Q, Kosik E, Smith SE, Voytek B. (2022). Periodic and aperiodic mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Cognitive Neuroscience Society."
+        - "Smith SE, Printz D, Voytek B, Soltani M. (2021). Increases in aperiodic activity explain EEG “slowing” after electroconvulsive therapy. Poster, Society for Neuroscience."
+        - "Smith S, Ma V, Jacobson M, Printz D, Voytek B, Soltani M. (2019). Oscillatory mechanisms of electroconvulsive therapy for major depressive disorder. Poster, Society for Neuroscience."
+        - "Waschke L, Donoghue T, Smith S, Voytek B, Obleser J. (2019). Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources. Poster, Cognitive Computational Neuroscience."
 
 - title: Teaching
-  type: list
-  contents:
-    - "Certificate of College Teaching Preparation for Postdocs, Yale University (2026–present)."
-    - "Neuroanatomy, graduate-level laboratory teaching assistant, UC San Diego (2022–2023)."
-    - "Workshop Lead: Methods for Analyzing Neural Oscillations and Aperiodic Activity, Society for Psychophysiological Research (2023)."
-
+  type: nested_list
+  contents: 
+    - title: Co-Instructed Courses and Workshops
+      items:
+        - "Neuroanatomy, graduate-level laboratory teaching assistant and guest lecturer, UC San Diego (2022–2023)."
+        - "Workshop Lead: Methods for Analyzing Neural Oscillations and Aperiodic Activity, Society for Psychophysiological Research (2023)."
+    - title: Formal Pedagogical Training
+      items:
+        - "Certificate of College Teaching Preparation for Postdocs, Yale University (2026–present)."
+        
 - title: Mentoring
   type: nested_list
   contents:
